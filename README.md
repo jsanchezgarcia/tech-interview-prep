@@ -16,7 +16,7 @@ Algorithms:
  * Depth-first search in a tree/graph.
  * Tree traversals (pre-order, in-order, post-order).
  * [Topological sort of a graph.](/graphs/topo_sort.py)
- * Dijstra.
+ * Dijkstra.
  * Dynamic programming.
 
 Other:
