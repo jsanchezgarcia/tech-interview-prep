@@ -34,3 +34,6 @@ Very common problems that you should dominate, just in case:
  * [Ways to make change.](/dp/ways-make-change.py)
  * Convert decimal to binary and back.
  * [Number of islands](/graphs/number_islands.py)
+
+System design:
+ * Go to this awesome repo: https://github.com/donnemartin/system-design-primer
