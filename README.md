@@ -20,7 +20,7 @@ Algorithms:
  * Dynamic programming.
 
 Other:
- * [Understand and implement a LRU cache.](/caches/LUR.py)
+ * [Understand and implement a LRU cache.](/caches/LRU.py)
 
 * Object Oriented Programming:
   * Implement blackjack
